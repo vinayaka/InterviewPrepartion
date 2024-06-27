@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-09T10:23:28 IST" name="Default suite" finished-at="2024-06-09T10:23:37 IST" duration-ms="8515">
+    <groups>
+    </groups>
+    <test started-at="2024-06-09T10:23:28 IST" name="Default test" finished-at="2024-06-09T10:23:37 IST" duration-ms="8515">
+      <class name="com.interview.paralleltest.demo.ParallelTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.interview.paralleltest.demo.ParallelTest@483f6d77]" started-at="2024-06-09T10:23:28 IST" name="setUp" finished-at="2024-06-09T10:23:31 IST" duration-ms="2757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testMethod1()[pri:0, instance:com.interview.paralleltest.demo.ParallelTest@483f6d77]" started-at="2024-06-09T10:23:31 IST" name="testMethod1" finished-at="2024-06-09T10:23:32 IST" duration-ms="1395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.interview.paralleltest.demo.ParallelTest@483f6d77]" started-at="2024-06-09T10:23:32 IST" name="tearDown" finished-at="2024-06-09T10:23:33 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.interview.paralleltest.demo.ParallelTest@483f6d77]" started-at="2024-06-09T10:23:33 IST" name="setUp" finished-at="2024-06-09T10:23:34 IST" duration-ms="1252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testMethod2()[pri:0, instance:com.interview.paralleltest.demo.ParallelTest@483f6d77]" started-at="2024-06-09T10:23:34 IST" name="testMethod2" finished-at="2024-06-09T10:23:37 IST" duration-ms="2542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.interview.paralleltest.demo.ParallelTest@483f6d77]" started-at="2024-06-09T10:23:37 IST" name="tearDown" finished-at="2024-06-09T10:23:37 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.interview.paralleltest.demo.ParallelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
